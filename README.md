@@ -1,6 +1,8 @@
 # Pablo Serna - github repository
 
 ## Repositories
+- [Studying Drosophila Melanogaster dataset](https://github.com/pabloserna/studying-drosophila)
+- [Taxi game with expected Sarsa](https://github.com/pabloserna/taxi-expsarsa)
 - [Dog Breed classifier - transfer learning](https://pabloserna.github.io/Dogbreed-classifier/): [repo](https://github.com/pabloserna/Dogbreed-classifier)
 <a>
 <img src="https://github.com/pabloserna/Dogbreed-classifier/blob/master/scheme.png" alt="Scheme of dog breed classifier" style="width: 100%;"/>
