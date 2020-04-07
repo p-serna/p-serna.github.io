@@ -2,6 +2,7 @@
 [Main github page](https://github.com/pabloserna)
 
 ## Repositories
+- [Rainbow DQN (Reinforcement learning)](https://github.com/pabloserna/rainbow-dqn)
 - [Studying Drosophila Melanogaster dataset](https://github.com/pabloserna/studying-drosophila)
 - [Taxi game with expected Sarsa](https://github.com/pabloserna/taxi-expsarsa)
 - [Dog Breed classifier - transfer learning](https://pabloserna.github.io/Dogbreed-classifier/): [repo](https://github.com/pabloserna/Dogbreed-classifier)
